@@ -1,0 +1,68 @@
+.nav{
+	display: flex;
+	justify-content: end;
+	align-items: center;
+}
+
+.nav > .link{
+	margin: 8px;
+	text-decoration: none;
+	color: black;
+}
+
+.menu-button{
+	border-radius: 4px ;
+	border: 1px solid transparent;
+	color: gray;
+	filter: invert(100);
+	background: none;
+	opacity: 0.75;
+
+}
+
+.menu-image{
+
+}
+
+.icon {
+	width: 30px;
+	height: 30px;
+}
+
+.prefix {
+	margin: 4px 14px;
+	margin-right:8px;
+	opacity: 0.35;
+}
+
+.loginButton{
+	border-radius: 4px;
+	border: 1px solid blue;
+	color: white;
+	background: blue;
+	font-weight: bold;
+	padding: 8px 16px;
+	cursor: pointer;
+}
+
+.form {
+	text-align: center;
+	margin-top: 140px;
+	margin-bottom: 38px;
+}
+.text-fild{
+	text-align: center;
+}
+
+
+.logo{
+	width: 272px;
+}
+.input{
+	flex-grow: 1;
+	width: 482px;
+	padding: 5px;
+	border-radius: 100px;
+	font-size: 1.2em;
+
+}
