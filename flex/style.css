@@ -1,0 +1,59 @@
+.container{
+    display: flex;
+    
+}
+.item{
+    display: flex;
+    flex: 1;
+    background-color: dimgray;
+    height: 47px;
+    margin: 10px 10px;
+}
+.itemDois{
+    display: flex;
+    flex: 3;
+    flex-direction: column;
+    background-color: dimgray;
+    height: 47px;
+    margin: 10px 10px;
+}
+.itemDoisMenor{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    background-color: dimgray;
+    height: 47px;
+    margin: 10px 10px;
+}
+.itemTres{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    background-color: dimgray;
+    height: 47px;
+    margin: 10px 10px;
+}
+
+.itemQuatro{
+    display: flex;
+    flex: 2;
+    background-color: dimgray;
+    height: 47px;
+    margin: 10px 10px;
+}
+
+.itemCincoMaior{
+    display: flex;
+    flex: 7;
+    background-color: dimgray;
+    height: 47px;
+    margin: 10px 10px;
+}
+
+.itemCinco{
+    display: flex;
+    flex: 1;
+    background-color: dimgray;
+    height: 47px;
+    margin: 10px 10px;
+}
